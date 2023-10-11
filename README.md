@@ -1,3 +1,3 @@
-Hi, I operate single person Matodon.
-Please watch @ottoto2017@prattohome.com.
+Hi, I operate single person Matodon.\n
+Please watch @ottoto2017@prattohome.com.\n
 link: https://prattohome.com/@0ttoto2017
