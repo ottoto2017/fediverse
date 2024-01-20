@@ -4,10 +4,10 @@ link: https://prattohome.com/@ottoto2017
 
 I survey Fediverse using apis,\
 /api/v1/instance/peers\
-/.well-known/nodeinfo.\
+/.well-known/nodeinfo.
 
 The search results are here in .csv files.\
-Please enjoy to see the results and utilize them.\
+Please enjoy to see the results and utilize them.
 
 Files uploaded are nodeinfos for each domain in Fediverse.\
 The latest is target20240120.csv.
