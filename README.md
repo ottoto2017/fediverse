@@ -10,4 +10,4 @@ The search results are here in .csv files.\
 Please enjoy to see the results and utilize them.
 
 Files uploaded are nodeinfos for each domain in Fediverse.\
-The latest is target20240120.csv.
+The latest is target20240222.csv.
